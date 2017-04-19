@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">YandexTranslate</string>
+    <string name="app_name">Переводчик</string>
     <string name="enterText">Введите текст для перевода</string>
     <string name="searchInHistory">Найти в истории</string>
     <string name="searchInFavorite">Найти в избранном</string>
