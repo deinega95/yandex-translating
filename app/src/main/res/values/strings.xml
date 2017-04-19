@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YandexTranslate</string>
+    <string name="enterText">Введите текст для перевода</string>
+    <string name="searchInHistory">Найти в истории</string>
+    <string name="searchInFavorite">Найти в избранном</string>
+    <string name="clear">Очистить</string>
+    <string name="favorite">Избранное</string>
+    <string name="hint">Нажмите и держите несколько секунд на элементе, который вы хотите удалить</string>
+    <string name="hintFavorite">Нажмите значок звезды на элементе, который вы хотите удалить</string>
+    <string name="speak">Произнести</string>
+    <string name="delete">Удалить</string>
+    <string name="read">Говорите</string>
+</resources>
